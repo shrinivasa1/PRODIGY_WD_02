@@ -1,0 +1,38 @@
+.textfield
+{
+  border-style:solid;
+  border-color: black;
+  size: 10px;
+  height:auto ;
+  width: 500px;
+  font-size: medium;
+  font-weight: 1000;
+  margin-left:100px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 70px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: aqua;
+}
+
+.inp{
+  color: beige;
+  padding: 20px;
+  margin: 20px;
+}
+.mode-selection
+{text-align: center;
+  border-style:double;
+  border-color: rgb(9, 149, 230);
+  height:300px ;
+  width: 500px;
+  font-size: medium;
+  font-weight: 1000;
+  margin-left:100px;
+  margin-top: 50px;
+  padding-top: 70px;
+  align-items: center;
+  background-color: aqua;
+  color: black;
+}
